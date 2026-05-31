@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Vasu Joon
 
-<!--
-**vashu-101/vashu-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Project Associate at IIT Madras
 
-Here are some ideas to get you started:
+## Interests
+- Machine Learning
+- Explainable AI (XAI)
+- Data Analytics
+- Deep Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Customer Churn Prediction using SHAP
+- Loan Approval Prediction using SHAP
+
+## Skills
+Python | SQL | Pandas | NumPy | Scikit-Learn | SHAP
