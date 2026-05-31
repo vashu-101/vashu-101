@@ -1,4 +1,4 @@
-# Hi, I'm Vasu Joon
+# Hi, I'm Vashu
 
 Project Associate at IIT Madras
 
